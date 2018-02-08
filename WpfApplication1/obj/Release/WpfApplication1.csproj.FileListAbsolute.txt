@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+D:\VisualStudioProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
